@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Payu Panwong</h1>
 
 <p align="center">
-  <img src="![Uploading image.png…]()
+  <img src="![image](https://github.com/user-attachments/assets/74222837-d0d7-40e0-828d-d90886648b19)
+
 " alt="My Image">
 </p>
 
