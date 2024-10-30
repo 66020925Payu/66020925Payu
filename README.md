@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Payu Panwong</h1>
 
-<p align="center">
-![image](https://github.com/user-attachments/assets/004c698b-53c3-4c6a-9069-9489f61bb422)
+![image](https://github.com/user-attachments/assets/756f6a88-ac54-460c-ba1c-dac3fe4bc9cf)
+
+
 
 
 
