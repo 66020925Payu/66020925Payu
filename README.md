@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Payu Panwong</h1>
 
-![image](https://github.com/user-attachments/assets/756f6a88-ac54-460c-ba1c-dac3fe4bc9cf)
+<p align="center">
+  <img src="![Uploading image.png…]()
+" alt="My Image">
+</p>
+
 
 
 
